@@ -1,3 +1,3 @@
 # IRC Freenode
 
-### My IRC Freenode Nick Name:sukuchinna
+### My IRC Freenode Nick Name : sukuchinna
