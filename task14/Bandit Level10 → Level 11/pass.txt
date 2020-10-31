@@ -1,1 +1,1 @@
-password =  IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+Password =  IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
