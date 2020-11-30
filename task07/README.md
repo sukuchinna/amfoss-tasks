@@ -18,7 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 # Simple Login Page
 ![simple login page](https://user-images.githubusercontent.com/73377406/100637409-d8a89e80-3358-11eb-9734-f9bf176123e5.jpg)
 # Register page
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/73377406/100638912-94b69900-335a-11eb-8eb3-05fadec96464.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/73377406/100641886-13f99c00-335e-11eb-9de8-f97f3e845ee7.gif)
+
 
 
 
